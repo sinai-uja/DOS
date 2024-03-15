@@ -8,9 +8,11 @@ El corpus Drug Opinion Spanish (DOS) ha sido extraído del portal web https://ww
 
 Jiménez-Zafra, S. M.,Martín-Valdivia, M. T., Molina-González, M. D. & Ureña-López, L. A. (2017). Corpus Annotation for Aspect Based Sentiment Analysis in Medical Domain. Proceedings of the 2nd International Workshop on Extraction and Processing of Rich Semantics from Medical Texts.
 
+```
 @inproceedings{jimenez2017corpus,
   title={Corpus annotation for aspect based sentiment analysis in medical domain},
   author={Jim{\'e}nez-Zafra, Salud Mar{\i}a and Mart{\i}n-Valdivia, M Teresa},
   year={2017},
   booktitle={Proceedings of the 2nd International Workshop on Extraction and Processing of Rich Semantics from Medical Texts}
 }
+```
